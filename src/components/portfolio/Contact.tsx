@@ -62,19 +62,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'alex.dev@example.com',
-      link: 'mailto:alex.dev@example.com'
+      value: 'martinmanampisoa5@gmail.com',
+      link: 'mailto:martinmanampisoa5@gmail.com'
     },
     {
       icon: Phone,
       title: 'Téléphone',
-      value: '+33 6 12 34 56 78',
-      link: 'tel:+33612345678'
+      value: '+261 38 69  856 54',
+      link: 'tel:+261386985654'
     },
     {
       icon: MapPin,
       title: 'Localisation',
-      value: 'Paris, France',
+      value: 'Antananarivo, Madagascar',
       link: '#'
     }
   ];

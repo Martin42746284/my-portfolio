@@ -26,7 +26,7 @@ const Index = () => {
       <footer className="bg-card/80 backdrop-blur-sm py-8 border-t border-border relative z-10">
         <div className="container mx-auto px-6 text-center">
           <p className="text-muted-foreground">
-            © 2024 Martin Manampisoa. Tous droits réservés.
+©             {new Date().getFullYear()} Martin Manampisoa. Tous droits réservés.
           </p>
         </div>
       </footer>

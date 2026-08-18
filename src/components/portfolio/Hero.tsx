@@ -40,7 +40,7 @@ const Hero = () => {
   }, [currentText, currentIndex, isDeleting, texts]);
 
   const scrollToNextSection = () => {
-    const aboutSection = document.querySelector('#about');
+    const aboutSection = document.querySelector('#project');
     aboutSection?.scrollIntoView({ behavior: 'smooth' });
   };
 
